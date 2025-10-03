@@ -1,0 +1,115 @@
+{
+    "document_info": {},
+    "instrument_settings": {},
+    "instrument_info": {},
+    "sample_data": {
+        "standard_curve_wells": [
+            {
+                "well": "A1",
+                "concentration": 0.0,
+                "fluorescence_value": 25.544,
+                "reduced_value": 25.544,
+                "date": "03-"
+            },
+            {
+                "well": "A2",
+                "concentration": 0.5,
+                "fluorescence_value": 2356.2,
+                "reduced_value": 2356.2,
+                "date": "03-"
+            },
+            {
+                "well": "A3",
+                "concentration": 1.0,
+                "fluorescence_value": 4613.0,
+                "reduced_value": 4613.0,
+                "date": "03-"
+            },
+            {
+                "well": "A4",
+                "concentration": 1.5,
+                "fluorescence_value": 6842.5,
+                "reduced_value": 6842.5,
+                "date": "03-"
+            },
+            {
+                "well": "A5",
+                "concentration": 2.0,
+                "fluorescence_value": 9023.8,
+                "reduced_value": 9023.8,
+                "date": "03-"
+            },
+            {
+                "well": "A6",
+                "concentration": 2.5,
+                "fluorescence_value": 11000.0,
+                "reduced_value": 11000.0,
+                "date": "03-"
+            }
+        ],
+        "control_and_sample_wells": [
+            {
+                "well": "B1",
+                "sample_type": "MUI Blank",
+                "fluorescence_value": 660.08,
+                "reduced_value": 660.08,
+                "date": "03-"
+            },
+            {
+                "well": "B2",
+                "sample_type": "Reference",
+                "fluorescence_value": 6996.6,
+                "reduced_value": 6996.6,
+                "date": "03-"
+            },
+            {
+                "well": "B3",
+                "sample_type": "Sample 1",
+                "fluorescence_value": 7061.5,
+                "reduced_value": 7061.5,
+                "date": "03-"
+            },
+            {
+                "well": "B4",
+                "sample_type": "Sample 2",
+                "fluorescence_value": 6971.6,
+                "reduced_value": 6971.6,
+                "date": "03-"
+            },
+            {
+                "well": "B5",
+                "sample_type": "Sample 3",
+                "fluorescence_value": 7409.7,
+                "reduced_value": 7409.7,
+                "date": "03-"
+            },
+            {
+                "well": "B6",
+                "sample_type": "Sample 4",
+                "fluorescence_value": null,
+                "reduced_value": null,
+                "date": null
+            },
+            {
+                "well": "B7",
+                "sample_type": "Sample 5",
+                "fluorescence_value": null,
+                "reduced_value": null,
+                "date": null
+            },
+            {
+                "well": "B8",
+                "sample_type": "Sample 6",
+                "fluorescence_value": null,
+                "reduced_value": null,
+                "date": null
+            }
+        ]
+    },
+    "standards_table": {
+        "headers": [],
+        "data": []
+    },
+    "key_calculation": null,
+    "full_content": "\n\n=== PAGE 1 ===\n# Experiment#1 - Laboratory Analysis Report\n\n## Document Information\n- **Document ID**: QC Verified Protocols/NVT615/2025Q1/101 SOP1033S4 03FEB25 JEN\n- **Document Status**: Approved\n- **Date**: 04-Feb-2025 14:46:52\n- **Page**: 1 of 2\n\n## Settings Information\n### Endpoint\n- **Fluorescence**: Ex, Auto Cutoff, Em\n- **Lm1**: 365, 435, 440\n\n### PMT and Optics\n- **Auto**\n- **6 Flashes/read**\n\n## Sample Results Grid\n\n### Standards (A1-A6)\n- **A1**: 0.0 Std - 25.544 (Reduced: 25.544) - Date: 03-Feb-2025 10:11\n- **A2**: 0.5 Std - 2356.2 (Reduced: 2356.2) - Date: 03-Feb-2025 10:12\n- **A3**: 1.0 Std - 4613.0 (Reduced: 4613.0) - Date: 03-Feb-2025 10:13\n- **A4**: 1.5 Std - 6842.5 (Reduced: 6842.5) - Date: 03-Feb-2025 10:13\n- **A5**: 2.0 Std - 9023.8 (Reduced: 9023.8) - Date: 03-Feb-2025 10:14\n- **A6**: 2.5 Std - 1.1e4 (Reduced: 1.1e4) - Date: 03-Feb-2025 10:15\n\n### Controls and Samples (B1-B8)\n- **B1**: MUI Blank - 660.08 (Reduced: 660.08) - Date: 03-Feb-2025 10:27\n- **B2**: Reference - 6996.6 (Reduced: 6996.6) - Date: 03-Feb-2025 10:28\n- **B3**: Sample 1 - 7061.5 (Reduced: 7061.5) - Date: 03-Feb-2025 10:30\n- **B4**: Sample 2 - 6971.6 (Reduced: 6971.6) - Date: 03-Feb-2025 10:31\n- **B5**: Sample 3 - 7409.7 (Reduced: 7409.7) - Date: 03-Feb-2025 10:32\n- **B6**: Sample 4 - Date: No Data\n- **B7**: Sample 5 - Date: No Data\n- **B8**: Sample 6 - Date: No Data\n\nAll entries show \"Ref: No Reference\" unless otherwise noted.\n\n## Read Information\n- **Instrument**: SpectraMax M3\n- **ROM**: v3.0.22 16Feb11\n- **Start Read**: 10:32 03-Feb-2025\n- **Mean Temperature**: 20.2°C\n- **Read By**: jdea\n\n## Reduction Settings\n- **Wavelength Combination**: fLm1\n\n## Standards Analysis Table\n| Sample | Concentration | Wells | Values | Back Calc Conc (μmoles) | Percent Back Calc |\n|--------|---------------|-------|---------|-------------------------|-------------------|\n| 0.0 Std | 0.0 | A1 | 25.544 | -0.017 | -Inf |\n| 0.5 Std | 0.5 | A2 | 2356.174 | 0.506 | 101.15 |\n| 1.0 Std | 1.0 | A3 | 4612.967 | 1.012 | 101.20 |\n| 1.5 Std | 1.5 | A4 | 6842.518 | 1.512 | 100.81 |\n| 2.0 Std | 2.0 | A5 | 9023.809 | 2.001 | 100.07 |\n| 2.5 Std | 2.5 | A6 | 11181.518 | 2.486 | 99.42 |\n\n## Key Ratio\n**0.5 μM / 0.0 μM Std Ratio = 92.240**\n\nThis appears to be a fluorescence-based quantitative analysis experiment with a standard curve showing excellent linearity and recovery percentages close to 100% for most standards."
+}
