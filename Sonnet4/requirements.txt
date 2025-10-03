@@ -1,0 +1,12 @@
+# PDF Processing Libraries
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+
+# Data Processing
+pandas>=2.2.2
+
+# Anthropic API for Sonnet 4
+anthropic==0.18.1
+
+# Additional utilities
+pathlib2==2.3.7; python_version < "3.4"
