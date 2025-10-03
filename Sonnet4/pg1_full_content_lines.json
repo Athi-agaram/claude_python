@@ -1,6 +1,0 @@
-[
-    "",
-    "",
-    "=== PAGE 1 ===",
-    "Error analyzing page 1: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CTeTzJ8NgRxKSge7xDK4i'}"
-]
